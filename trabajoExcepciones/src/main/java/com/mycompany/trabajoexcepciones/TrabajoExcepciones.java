@@ -110,7 +110,7 @@ public class TrabajoExcepciones {
 
       public static void main(String[] args) {
       for (int i = 0; i < Integer.MAX_VALUE; i++) {
-      new ObjetoGrande(); // Consume mucha memoria
+      new ObjetoGrande(); 
     }
   }
 }
